@@ -3,3 +3,26 @@
 body{
     background: white;
 }
+
+.card {
+    min-height: 500px;
+    border-radius: 20px;
+}
+
+.numero {
+    font-size: 200px;
+    line-height: 200px;
+}
+
+.palo {
+    font-size: 80px;
+}
+
+.spade, .club {
+    color: black;
+}
+
+.heart, .diamond {
+    color: red;
+}
+
